@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56ca2f98-bbe2-44e5-bcf0-5231a6cc0467" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/generated/io/vertx/blueprint/todolist/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/io/vertx/blueprint/todolist/verticles/SingleApplicationVerticle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/io/vertx/blueprint/todolist/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/vertx/blueprint/todolist/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/io/vertx/blueprint/todolist/entity/TodoConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/generated/io/vertx/blueprint/todolist/entity/TodoConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/io/vertx/blueprint/todolist/verticles/SingleApplicationVerticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/vertx/blueprint/todolist/verticles/SingleApplicationVerticle.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +73,9 @@
       <workItem from="1574863397000" duration="1543000" />
       <workItem from="1574864970453" duration="862000" />
       <workItem from="1574865869475" duration="1219000" />
-      <workItem from="1574867118961" duration="15011000" />
+      <workItem from="1574867118961" duration="15296000" />
+      <workItem from="1575029824495" duration="117000" />
+      <workItem from="1575030975397" duration="342000" />
     </task>
     <servers />
   </component>

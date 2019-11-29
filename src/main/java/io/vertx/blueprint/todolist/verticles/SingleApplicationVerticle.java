@@ -17,7 +17,6 @@ import io.vertx.redis.RedisOptions;
 
 import java.util.HashSet;
 import java.util.Set;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 public class SingleApplicationVerticle extends AbstractVerticle {
